@@ -14,7 +14,7 @@ client.on("ready", async () => {
     `<---------------------------------------->`,
     `Bot: ${client.user.tag} (ID: ${client.user.id}) {Started: ${starttime}}`,
     `Bot Using: Discord.js v12.5.3`,
-    `Github Repository: github.com/ZiroCore/discord-status`,
+    `Github Repository: github.com/jewsuck/mess-pic-perms`,
     `Type Of Status: Custom Status`,
     `Status Content: ${config.status.statustext}`,
     `Role ID: ${config.status.roletogiveid}`,
