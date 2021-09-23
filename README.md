@@ -1,4 +1,4 @@
-<h1 align='center'> discord-status</h1>
+<h1 align='center'> mess pic perms bot </h1>
 <h3 align='center'> Check Status Of a Discord User and Give Them Roles!</h3>
 <h3 align='center'> skidded by omer#1060 for  <a href="https://discord.gg/mess">discord.gg/mess</a>.</h3>
 <h3 align='center'> Some of The Code Is Provided by <a href="https://discord.gg/devs">Dark Studio</a>.</h3>
